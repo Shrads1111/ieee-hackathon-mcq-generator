@@ -3,7 +3,7 @@ From PDFs to Practice: Generate High-Quality Multiple Choice Questions with the 
 
 QuesThink is a web application designed to help students, educators, and professionals instantly create comprehensive quizzes from PDF documents. By leveraging the Google Gemini API, it transforms dense material into engaging study aids in seconds.
 
-(Suggestion: Replace this placeholder with a real screenshot or GIF of your application to showcase your great UI!)
+
 
 🎯 The Problem
 Manually creating quizzes and study materials from textbooks, lecture notes, or research papers is a tedious and time-consuming process. This manual effort can be a significant bottleneck for effective learning and teaching, especially under tight deadlines like a hackathon!
