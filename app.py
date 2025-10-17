@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configure Gemini API
-genai.configure(api_key=os.getenv('AIzaSyDMLM2sdSUYE5Lsrv_XoaMJwXnT2izEuxs'))
+genai.configure(api_key=os.getenv(' '))
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Configuration
@@ -344,3 +344,4 @@ if __name__ == '__main__':
     print("📚 Ready to generate intelligent MCQs from your PDFs!")
     print("🌐 Access the API at: http://localhost:5000")
     app.run(debug=True, host='0.0.0.0', port=5000)
+
